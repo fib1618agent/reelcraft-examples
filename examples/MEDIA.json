@@ -96,11 +96,10 @@
     },
     {
       "path": "examples/10-launch-reelcraft/final.mp4",
-      "bytes": 16850159,
-      "sha256": "d2c51bc0d95bfcc95945ad0c25551ab42022846ec74a17ab94e826e3d3eff844",
+      "bytes": 10169412,
+      "sha256": "055d89286a0287667eaff9e40066424e1c8dbe8f5ecfacf971139edbc9731599",
       "asset": "10-launch-reelcraft--final.mp4",
-      "reason": "over 10 MB",
-      "missing_locally": true
+      "reason": "over 10 MB"
     },
     {
       "path": "examples/11-tutorial-series-tidepool/episode-01/final.mp4",

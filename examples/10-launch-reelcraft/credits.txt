@@ -1,0 +1,2 @@
+Music: 'Inbound' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+Voice: Kokoro af_heart (Apache-2.0), synthetic, made on this machine.

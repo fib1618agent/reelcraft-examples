@@ -1,0 +1,6 @@
+{"sources": {"v": "../in/panel.mp4"},
+ "ranges": [{"source": "v", "start": 0, "end": 31.7, "mute": true}],
+ "audio": {"tracks": [
+   {"kind": "music", "id": "bed", "catalog": "buckley-inbound", "offset": 60, "dur": 31.7, "fade_in": 0.8, "fade_out": 2.5, "gain_db": -6},
+   {"kind": "voice", "id": "vo", "file": "../voice/vo.wav", "start": 0}]},
+ "loudness": {"lufs": -14, "tp": -1}}

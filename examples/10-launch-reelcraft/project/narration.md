@@ -1,25 +1,28 @@
 ---
 voice: af_heart
-speed: 1.0
-gap: 0.35
-tail: 0.6
+gap: 0.3
+tail: 0.4
 ---
-<!-- reelcraft launch, 30 s. One line per scene; the end card (close) is silent. -->
+## intro {at=0.5}
+This is the reelcraft panel, a page that runs on your own machine.
 
-## hook
-You describe the video.
+## stories {at=4.2}
+Stories lists every finished video.
 
-## result
-Claude directs. reelcraft does the work, on your own machine.
+## story {at=7.2}
+Open one to play it, then render, check or export.
 
-## terminal {pause_after=0.9}
-Scored with music and sound, rendered frame by frame, and checked before it ships.
+## new {at=10.9}
+New video: describe what you want, and your agent writes the plan.
 
-## wall
-Launch films, explainers, vertical shorts, footage cuts, data stories.
+## paste {at=17.9}
+Paste the plan back, change any scene, then approve.
 
-## studio
-Want options first? Pick them on a studio board.
+## templates {at=22.2}
+Templates give you eight places to start, with real examples.
 
-## local
-No cloud, no API keys, no uploads. Even this voice was made locally.
+## sound {at=26.0}
+Your own music lives in the sound library.
+
+## close {at=29.5}
+Nothing leaves your computer.
