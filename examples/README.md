@@ -27,7 +27,7 @@ commands, what the critic found and what changed. Pick one from the wall, or jum
 <td width="16%" align="center"><a href="#ex-07"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/07-data-story.webp" width="100%" alt="Warming stripes turn into a bar chart of global temperature since 1880."></a><br><sub><b>07</b></sub></td>
 <td width="16%" align="center"><a href="#ex-08"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/08-beat-montage.webp" width="100%" alt="Space photos cut on the beat: the Eagle Nebula."></a><br><sub><b>08</b></sub></td>
 <td width="16%" align="center"><a href="#ex-09"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/09-studio-trailer.webp" width="100%" alt="A cinematic tilted close-up of a notes app interface."></a><br><sub><b>09</b></sub></td>
-<td width="16%" align="center"><a href="#ex-10"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/10-launch-reelcraft.webp" width="100%" alt="A grid of example videos playing side by side."></a><br><sub><b>10</b></sub></td>
+<td width="16%" align="center"><a href="#ex-10"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/10-launch-reelcraft.webp" width="100%" alt="The reelcraft web panel: stories, new video, templates."></a><br><sub><b>10</b></sub></td>
 <td width="16%" align="center"><a href="#ex-11"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/11-tutorial-series-tidepool.webp" width="100%" alt="A drawn notes app with a Markdown checklist being typed."></a><br><sub><b>11</b></sub></td>
 <td width="16%" align="center"><a href="#ex-12"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/12-energy-report.webp" width="100%" alt="A ranked bar chart of US electricity sources moving through the years."></a><br><sub><b>12</b></sub></td>
 </tr>
@@ -233,13 +233,13 @@ download one and open it to play it.
 
 <table>
 <tr>
-<td width="44%" valign="top"><a href="10-launch-reelcraft/"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/10-launch-reelcraft.webp" width="100%" alt="A grid of example videos playing side by side."></a></td>
+<td width="44%" valign="top"><a href="10-launch-reelcraft/"><img src="https://github.com/fib1618agent/reelcraft/raw/main/assets/readme/gallery/10-launch-reelcraft.webp" width="100%" alt="The reelcraft web panel: stories, new video, templates."></a></td>
 <td valign="top">
-<sub>10 · 30 s · 16:9 + 1:1, SRT</sub><br>
-<b><a href="10-launch-reelcraft/">reelcraft&#x27;s own launch video</a></b>
-<p><sub>THE PROMPT</sub><br><i>“Make a 30-second launch video for reelcraft itself. Show real things: real renders, real terminal commands, the studio board. Plus a square cut-down.”</i></p>
-<p><sub>WHAT IT SHOWS</sub><br>Real renders and terminal output, local narration, square cut-down</p>
-<p>▶ <a href="https://github.com/fib1618agent/reelcraft-examples/releases/download/examples-media-v1/10-launch-reelcraft--final.mp4"><code>final.mp4</code></a> · <a href="10-launch-reelcraft/final.square.mp4"><code>final.square.mp4</code></a><br><a href="10-launch-reelcraft/">the folder, the story and the commands</a></p>
+<sub>10 · 32 s · 16:9, SRT</sub><br>
+<b><a href="10-launch-reelcraft/">a tour of the reelcraft web panel</a></b>
+<p><sub>THE PROMPT</sub><br><i>“Make a launch video for reelcraft that showcases its web panel (reelcraft ui).”</i></p>
+<p><sub>WHAT IT SHOWS</sub><br>A recorded tour of the panel: stories, new video, templates, sound library; local narration and music</p>
+<p>▶ <a href="https://github.com/fib1618agent/reelcraft-examples/releases/download/examples-media-v1/10-launch-reelcraft--final.mp4"><code>final.mp4</code></a><br><a href="10-launch-reelcraft/">the folder, the story and the commands</a></p>
 </td>
 </tr>
 </table>
