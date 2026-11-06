@@ -1,0 +1,5 @@
+studio board: http://127.0.0.1:58243/?k=<masked>
+  local only (127.0.0.1); the link carries a key, share it only with the reviewer
+  static copy: <work>/reelcraft-out/board-demo-20260927-165709/studio/board.html
+  feedback:    reelcraft studio feedback <work>/reelcraft-out/board-demo-20260927-165709    stop: reelcraft studio stop <work>/reelcraft-out/board-demo-20260927-165709
+  (add --browser to open it here)
